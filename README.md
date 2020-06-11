@@ -14,5 +14,4 @@ _You can access the templates by downloading the zip file or just clone the repo
 
 Having trouble with Pages?or email on [contact support](arkumari2000@gmail.com) and I'll sort out .
 
-With Regards,
 Happy Coding.
