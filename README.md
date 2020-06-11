@@ -12,6 +12,6 @@ _You can access the templates by downloading the zip file or just clone the repo
 
 ### Support or Contact
 
-Having trouble with Pages?or email on [contact support](arkumari2000@gmail.com) and I'll sort out .
+Having trouble with Pages?or email on [arkumari2000@gmail.com](arkumari2000@gmail.com) and I'll sort out .
 
 Happy Coding.
